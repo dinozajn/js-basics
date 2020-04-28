@@ -1,15 +1,7 @@
-/*
-6. Create a function that implements y = ax + b
-It should takes "a" and "b" as arguments , and return new function, which takes "x" as argument.
-*/
-
 const argx = 3;
 let argbool1 = true;
 let argnum1 = 2;
 let argstring1 = '33';
-let argbool2 = false; 
-let argnum2 = -2;
-let argstring2 = '5';
 
 function task1 (x) {
     return (2 * x + 4);
